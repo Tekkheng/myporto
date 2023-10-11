@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myporto/static/css/main.d776e0b6.css",
+    "main.js": "/myporto/static/js/main.3e70066b.js",
+    "static/js/787.1084d3a1.chunk.js": "/myporto/static/js/787.1084d3a1.chunk.js",
+    "static/media/Tek Kheng - CV.pdf": "/myporto/static/media/Tek Kheng - CV.1eef7314865aa78bdad4.pdf",
+    "static/media/bg1.jpg": "/myporto/static/media/bg1.ba1587e39ed90d2d3efc.jpg",
+    "static/media/lat4.jpg": "/myporto/static/media/lat4.773fa34bef78a4fba812.jpg",
+    "static/media/picture2.jpg": "/myporto/static/media/picture2.687af3e81ede0bb86a1c.jpg",
+    "static/media/lat5.jpg": "/myporto/static/media/lat5.39b74c8b9714bb0e99db.jpg",
+    "index.html": "/myporto/index.html",
+    "main.d776e0b6.css.map": "/myporto/static/css/main.d776e0b6.css.map",
+    "main.3e70066b.js.map": "/myporto/static/js/main.3e70066b.js.map",
+    "787.1084d3a1.chunk.js.map": "/myporto/static/js/787.1084d3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d776e0b6.css",
+    "static/js/main.3e70066b.js"
+  ]
+}

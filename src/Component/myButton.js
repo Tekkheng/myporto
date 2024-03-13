@@ -1,4 +1,5 @@
-import myCv from "../files/Tek Kheng - CV.pdf";
+// import myCv from "../files/Tek Kheng - CV.pdf";
+import myCv from "../files/Tek Kheng_Resume.pdf";
 import { BrowserRouter as Router} from "react-router-dom";
 import { HashLink as Link } from "react-router-hash-link";
 
@@ -23,9 +24,9 @@ const myButton = ((props)=>{
   
     return(
         <>
-        {props.text == "Download CV" ? 
+        {props.text === "Download CV" ? 
         (
-            <a href={myCv} target="_blank" style={{textDecoration:"none",color:"black"}} download>                    
+            <a href={myCv} target="_blank" style={{textDecoration:"none",color:"black"}} download rel="noreferrer">                    
                 <button className={props.btnClass}>
                     {props.text}
                 </button>

@@ -1,5 +1,5 @@
 // import React, { useState, useRef } from "react";
-import { BrowserRouter as Router, Routes,Route  } from "react-router-dom";
+import { BrowserRouter as Router, } from "react-router-dom";
 import { HashLink as Link } from "react-router-hash-link";
 const Navbar = () => {
   // const navRef = useRef(null);
@@ -22,7 +22,7 @@ const Navbar = () => {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ms-auto">
+          <ul class="navbar-nav ms-auto">s
             <Router>
             <li className="nav-item">
               {/* <a

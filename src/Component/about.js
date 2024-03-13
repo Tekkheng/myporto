@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from "react";
 import profile_picture from "../img/picture2.jpg";
 import MyButton from "./myButton";
@@ -17,21 +18,21 @@ const About = () => {
               <a
                 target="_blank"
                 href="https://github.com/Tekkheng?tab=repositories"
-                className="github text-dark"
+                className="github text-dark" rel="noreferrer"
               >
                 <i className="bi bi-github p-2"></i>
               </a>
               <a
                 target="_blank"
                 href="https://www.instagram.com/akheng_je/?hl=en"
-                className="ig text-dark"
+                className="ig text-dark" rel="noreferrer"
               >
                 <i className="bi bi-instagram p-2"></i>
               </a>
               <a
                 target="_blank"
                 href="https://www.linkedin.com/in/tek-kheng-58211723b/"
-                className="lidln text-dark"
+                className="lidln text-dark" rel="noreferrer"
               >
                 <i className="bi bi-linkedin p-2"></i>
               </a>
